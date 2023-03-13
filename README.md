@@ -1,14 +1,14 @@
 <div id="header alingn"="center">
     <h1 aling="center">Hi, Im Cesar 👾</h1>
-    <h3 aling="center">A programming student who has a great interest in learning new things and putting them into practice. I love programming and I would like to be a passionate web developer in the future.
+    <h3 aling="center">
+        SI - AHMOFDR
     </h3>
 </div>
 
 ---
-### About Me :
-- 🔭 I’m currently working on college projects
-- 🌱 I’m currently learning C++ language
-- 📫 How to reach me: ...
+
+
+
 <div id="badges" alin="center">
     <a href="https://www.facebook.com/CesarTorresLV/" target="_blank">
         <img src="https://img.shields.io/twitter/url?label=Cesar%20Torres&logo=facebook&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fwww.facebook.com%2FCesarTorresLV%2F"
