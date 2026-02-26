@@ -1,6 +1,6 @@
 <div id="header alingn"="center">
     <h1 aling="center">Hi, I'm Cesar 👾</h1>
     <h3 aling="center">
-        I'm studying Computer Systems Engineering and plan to finish by the end of 2025. I want to become a full-stack developer and am passionate about software development. I'm excited to learn and use new technology.
+        Junior Full Stack Developer with experience building web and mobile applications using Angular, React, and Flask. Currently working in a collaborative development team, contributing to frontend, backend, and API optimization projects. Passionate about creating scalable, efficient solutions and continuously improving my skills through real-world challenges and innovation.
     </h3>
 </div>
